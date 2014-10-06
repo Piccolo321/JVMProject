@@ -26,6 +26,10 @@ public class JVMTriangleTestMain {
 		System.out.println(triangleTest2.getType());
 		System.out.println(triangleTest3.getType());
 		System.out.println(triangleTest4.getType());
+		
+		
+		
+		System.out.println("this is a test!");
 	}
 
 }
